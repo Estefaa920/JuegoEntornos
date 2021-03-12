@@ -43,8 +43,45 @@ public class juegoEstefania {
 	static void opcion1() {
 		
 
-		
-	}
+		    System.out.println("Has decidido salvar a Ingrid, tu hermano no ha conseguido sobrevivir al parto.");
+		    System.out.println("");
+			System.out.println("3 años después…");	
+			System.out.println("");
+			
+			
+			
+			System.out.println("Desde que eras pequeña, el doctor Nathan Dawkins y tu madre vieron algo especial en ti, no eras como las demás niñas. Comenzaron a ver sucesos extraños que ocurrían a tu alrededor. Tenías un amigo “imaginario” llamado Aiden."
+			+ "	Ingrid murió debido a una depresión tras la muerte de tu hermano.");
+			System.out.println("A partir de ese entonces, Nathan se hizo de cargo de tu custodia.");
+			System.out.println("");
+			System.out.println("15 años después…");
+			System.out.println("");
+			
+			
+				System.out.println("Con el paso del tiempo Nathan descubrió que Aiden, es una entidad vinculada a ti. Es un ser inmaterial, con poderes telequinéticos que hace que tengas contacto con el mundo de los espirítus.");
+				System.out.println("");
+				System.out.println("Al ser “un peligro para la sociedad”, la CNP está informada sobre su existencia.");
+				System.out.println("La CNP han encontrando un portal multidimensional en unas instalaciones abandonas, en el que parecía haber entidades malignas."
+						+ "Debido a ello, la CNP contactó contigo para que pudieses ayudar a la exterminación del portal.");
+				System.out.println("");
+				System.out.println("Decides:");
+					System.out.println("1.-Colaborar para que se cierre el portal.");
+				System.out.println("2.-No colaborar.");
+				
+				int eleccion1 = scanner.nextInt();
+				
+				if (eleccion1 == 1){
+					
+					opcion3();
+				} else {
+					
+					opcion4();
+				}
+				
+			}
+			
+	static void opcion3() {}
+	static void opcion4() {}
 	
 	static void opcion2() {
 		
