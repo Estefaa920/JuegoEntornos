@@ -48,8 +48,6 @@ public class juegoEstefania {
 		System.out.println("3 años después…");	
 		System.out.println("");
 
-
-
 		System.out.println("Desde que eras pequeña, el doctor Nathan Dawkins y tu madre vieron algo especial en ti, no eras como las demás niñas. Comenzaron a ver sucesos extraños que ocurrían a tu alrededor. Tenías un amigo “imaginario” llamado Aiden."
 				+ "	Ingrid murió debido a una depresión tras la muerte de tu hermano.");
 		System.out.println("A partir de ese entonces, Nathan se hizo de cargo de tu custodia.");
