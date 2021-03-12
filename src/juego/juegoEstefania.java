@@ -2,7 +2,7 @@ package juego;
 import java.util.Scanner;
 public class juegoEstefania {
 
- static Scanner scanner = new Scanner(System.in);
+	 static Scanner scanner = new Scanner(System.in);
 	public static void main(String[] args) {
 
 		System.out.println("Bienvenido a la historia donde tú eres el protagonista!");
@@ -25,7 +25,7 @@ public class juegoEstefania {
 		
 		System.out.println("Llega el momento de tomar tu primera decisión. Estas en la una encrucijada antes de nacer.");
 		System.out.println("");
-		
+		System.out.println("Decides:");
 		System.out.println("1.- Ingrid sobreviva al parto pero eso involucraría que tu hermano fallezca.");
 		System.out.println("2.- Decidir salvar a tu hermano, tendrá como consecuencia la muerte de Ingrid.");
 		int eleccion = scanner.nextInt();
@@ -42,6 +42,7 @@ public class juegoEstefania {
 	
 	static void opcion1() {
 		
+
 		
 	}
 	
