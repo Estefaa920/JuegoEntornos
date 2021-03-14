@@ -108,14 +108,12 @@ public class juegoEstefania {
 		static void opcion11() {
 		
 			System.out.println("Decides ir a ayudarle, la rama en la que estaba sujeto Aiden se rompe, provocando que os caigáis los dos por el precipicio.");
-			System.out.println("");
 			System.out.println("Tras la caída, Aiden tiene un muerte instantánea y tú sobrevives.");
 		}
 		
 		static void opcion12() {
 			
 			System.out.println("Decides no ayudar a tu hermano, por tanto tu hermano muere.");
-			System.out.println("");
 			System.out.println("Tras su caída, los ciervos te empiezan a acorralar más y terminas cayendo, provocando tu muerte también.");
 		}
 
