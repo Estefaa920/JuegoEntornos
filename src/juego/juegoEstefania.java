@@ -13,6 +13,7 @@ public class juegoEstefania {
 
 		System.out.println("La historia comienza a las 9 de la mañana del 15 de diciembre de 1995 en el hospital Infanta Sofía de Madrid, "
 				+ "hacia un frio helador y aún no había salido el sol.");
+		
 		System.out.println("Hoy era un día especial, Ingrid Baker estaba a punto de dar a luz. El médico anteriormente le había avisado que iba a tener dos mellizos, un niño y una niña.");
 		System.out.println("");
 
