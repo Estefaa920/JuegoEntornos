@@ -85,6 +85,7 @@ public class juegoEstefania {
 			
 			System.out.println("Decides esperar que vuelva tu hermano. ");
 			System.out.println("Al siguiente día la policía acude al orfanato para comunicarte una terrible noticia, tu hermano a fallecido tras caerse por un barranco.");
+			System.out.println("");
 		}
 		
 	}
